@@ -1,0 +1,25 @@
+{
+  "name": "dastuurkakmg",
+  "version": "1.0.0",
+  "description": "Dastuurka Ku meel gaarka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "Ali Salad",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dastuurka/dastuurka-kmg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dastuurka/dastuurka-kmg/issues"
+  },
+  "homepage": "https://github.com/Dastuurka/dastuurka-kmg#readme"
+}
