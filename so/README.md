@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/Somalia.png
 actionText: Provisional Constitution →
-actionLink: /guide/
+actionLink: /english/
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
